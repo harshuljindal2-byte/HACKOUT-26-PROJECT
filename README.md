@@ -5,7 +5,7 @@
 [![Google Gemini API](https://img.shields.io/badge/AI-Google%20Gemini%20API-4285F4?logo=google&logoColor=white)](https://ai.google.dev/)
 [![HackOut'26](https://img.shields.io/badge/Hackathon-HackOut'26-orange)](#)
 
-> **Live Web App:**https://aerosolar.streamlit.app/**(Deployed on Streamlit Community Cloud)*  
+> **Live Web App: **https://aerosolar.streamlit.app/** (Deployed on Streamlit Community Cloud)*  
 > **HackOut'26 Theme:** Renewable Energy Intelligence  
 > **Problem Statement:** Predictive Maintenance for Solar & Wind Assets  
 > **Target Users:** Solar/Wind Farm Operators, Field Technicians, Asset Owners  
