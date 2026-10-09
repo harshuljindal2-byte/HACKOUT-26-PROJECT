@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Problem Statement & Industry Context
-skldfjokf
+commited by-HARSHUL JINDAL,AMISH DUNGARWAL,ANSUL BHUSAN
 
 
 Solar PV arrays and wind turbines operate continuously outdoors under harsh environmental conditions—dust accumulation, thermal stress, violent wind gusts, and mechanical vibration. Over time, minor operational anomalies (such as panel soiling, elevated gearbox temperatures, subtle bearing friction, or voltage drops) silently escalate into major equipment breakdowns.
